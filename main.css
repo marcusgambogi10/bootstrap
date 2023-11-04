@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header > .container, section > .container {
+    max-width: 500px;
+}
+
+header {
+    padding: 40px 0;
+}
+
+form > input {
+    margin-bottom: 10px;
+}
+
+.btn {
+    margin-top: 10px;
+    max-width: 120px;
+}
